@@ -1,5 +1,9 @@
 body {
     background-color: #040609;
+    overflow-x: hidden;
+}
+html{
+    overflow-x: hidden;
 }
 *, *:after, *:before {
     font-family: 'Gilroy', sans-serif;
